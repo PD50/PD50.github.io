@@ -617,9 +617,9 @@ export default function App() {
       <footer className="py-16 px-6 border-t border-white/[0.04] text-center">
         <div className="flex justify-center gap-5 mb-5">
           {[
-            { icon: <Github size={18} />, href: 'https://github.com/parthdawar' },
-            { icon: <Linkedin size={18} />, href: 'https://linkedin.com/in/parthdawar' },
-            { icon: <Mail size={18} />, href: 'mailto:parth@example.com' },
+            { icon: <Github size={18} />, href: 'https://github.com/pd50' },
+            { icon: <Linkedin size={18} />, href: 'https://linkedin.com/in/parth-dawar' },
+            { icon: <Mail size={18} />, href: 'mailto:bm23btech11018@iith.ac.in' },
           ].map((link, i) => (
             <a key={i} href={link.href} target="_blank" rel="noopener noreferrer"
               className="w-10 h-10 rounded-lg flex items-center justify-center border border-white/[0.06] text-zinc-500 hover:text-[#00e87b] hover:border-[#00e87b]/30 transition-all no-underline">
